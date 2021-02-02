@@ -3,4 +3,5 @@ Additional underlay images which can be used with [Sanchez](https://github.com/n
 
 ## Contributors
 
-* Carl Reinemann
+* [Carl Reinemann](https://github.com/creinemann)
+* [mlavespere](https://github.com/mlavespere)
